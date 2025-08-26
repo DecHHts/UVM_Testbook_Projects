@@ -6,10 +6,10 @@ run:
 	./simv
 
 clean:
-	rm -rf /home/ICer/heyuxuan_prjs/simple_prjs/csrc
-	rm -rf /home/ICer/heyuxuan_prjs/simple_prjs/simv.daidir
-	rm -rf /home/ICer/heyuxuan_prjs/simple_prjs/vc_hdrs.h
-	rm -rf /home/ICer/heyuxuan_prjs/simple_prjs/ucli.key
-	rm -rf /home/ICer/heyuxuan_prjs/simple_prjs/simv
-	rm -rf /home/ICer/heyuxuan_prjs/simple_prjs/top_tb.vcs*
-	rm -rf /home/ICer/heyuxuan_prjs/simple_prjssimv.vdb
+	rm -rf /home/ICer/heyuxuan_prjs/UVM_Testbook_Projects/csrc
+	rm -rf /home/ICer/heyuxuan_prjs/UVM_Testbook_Projects/simv.daidir
+	rm -rf /home/ICer/heyuxuan_prjs/UVM_Testbook_Projects/vc_hdrs.h
+	rm -rf /home/ICer/heyuxuan_prjs/UVM_Testbook_Projects/ucli.key
+	rm -rf /home/ICer/heyuxuan_prjs/UVM_Testbook_Projects/simv
+	rm -rf /home/ICer/heyuxuan_prjs/UVM_Testbook_Projects/top_tb.vcs*
+	rm -rf /home/ICer/heyuxuan_prjs/UVM_Testbook_Projects/simv.vdb
